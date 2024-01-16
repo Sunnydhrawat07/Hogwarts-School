@@ -16,7 +16,7 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.2" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0" />
-    <PackageReference Include="System.data.SqlClient" Version="4.8.1" />
+    <PackageReference Include="System.data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 <ItemGroup>
 <ProjectReference Include="..\CourseAPI\CourseAPI.csproj" />
